@@ -1,4 +1,4 @@
-# 🎮 DoraGame
+# 🎮 Dora Game
 
 A fun browser-based arcade game inspired by Flappy Bird, featuring Doraemon-themed characters, obstacles, and gadgets.
 
