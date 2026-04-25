@@ -57,7 +57,7 @@ document.addEventListener("keydown", function(e){
 
 function endGame(){
     gameOver = true;
-
+    scoresound.pause();
     hitsound.play();
     bgsound.pause();
 
