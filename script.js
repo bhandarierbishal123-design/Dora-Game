@@ -20,7 +20,6 @@ let scores = 0;
 let gameOver = false;
 let gameStarted = false;
 let highScore = localStorage.highScore || 0;
-// let highScore = 5000;
 
 let obstacles = ["gian.png","mom.png","teacher.png","homework.png"];
 let gadgets = ["gadget1.png","gadget2.png","gadget3.png"];
